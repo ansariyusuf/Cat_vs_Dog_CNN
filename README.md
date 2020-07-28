@@ -6,4 +6,4 @@ The Jupyter Notebook comprises of three main sections:
 2) The second part defines the CNN model
 3) The third part deals with training the model appropriately and updating the learning rate to achieve high accuracy.
 
-A JSON copy of the model along with the weights is also available.
+A JSON copy of the model is available along with notebook. Model weights can be downloaded from: https://cmu.box.com/s/5uhqfnev0zvbnl9p8agb74py5tyrk9d8
